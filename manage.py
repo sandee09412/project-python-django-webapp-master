@@ -8,6 +8,7 @@ import sys
 
 if __name__ == "__main__":
     os.environ.setdefault(
+        
         "DJANGO_SETTINGS_MODULE",
         "python_webapp_django.settings"
     )
